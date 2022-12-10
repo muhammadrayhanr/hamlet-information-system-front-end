@@ -32,7 +32,6 @@ To run this project is quite easy. Download or Clone this repository. You will n
   - [Redux Toolkit](https://redux-toolkit.js.org/)
   - [React Bootstrap](https://react-bootstrap.github.io/)
   - [React Date Picker](https://www.npmjs.com/package/react-datepicker)
-- PWA:
-  - [Workbox](https://developers.google.com/web/tools/workbox/modules/)
-  - [Webpack PWA Manifest](https://npmjs.com/package/webpack-pwa-manifest)
+  - [React Lazy Load Image](https://www.npmjs.com/package/react-lazy-load-image-component)
+
 
